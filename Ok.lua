@@ -1,6 +1,4 @@
 {
-  "Special": [
-  ],
-  "Normal": [
-  ],
+  "Special": [],
+  "Normal": []
 }
